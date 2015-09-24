@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adapters</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Ciudades">
+        <item >Puebla</item>
+        <item >Distrito Federal</item>
+        <item >Jalapa</item>
+        <item >Veracruz</item>
+        <item >Merida</item>
+        <item >Acapulco</item>
+        <item >Mazatlan</item>
+        <item >Guanajuato</item>
+    </string-array>
+</resources>
